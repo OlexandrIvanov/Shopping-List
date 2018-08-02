@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="add_purchase">Select the addition option:</string>
+
+
+
+    <string-array name="spinnerText">
+        <item>Shopping List</item>
+        <item>Purchases</item>
+    </string-array>
+
+    <string-array name="choiceDialog">
+        <item>Text</item>
+        <item>From Gallery</item>
+        <item>From Camera</item>
+    </string-array>
+</resources>
